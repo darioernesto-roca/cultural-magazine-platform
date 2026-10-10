@@ -9,7 +9,10 @@ This repository follows phased implementation defined in `CODEX_PROJECT_RULES.md
 Current progress:
 
 - ✅ Phase 0: Repository preparation
-- ⏳ Phase 1+: Pending owner validation
+- ⏳ Phase 1: Laravel initialized; PostgreSQL migration and owner validation pending
+- ⏳ Phase 2+: Not started
+
+Detailed task tracking: [`docs/IMPLEMENTATION_CHECKLIST.md`](docs/IMPLEMENTATION_CHECKLIST.md)
 
 ## Source of Truth
 
