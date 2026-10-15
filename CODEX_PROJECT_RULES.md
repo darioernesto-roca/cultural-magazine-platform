@@ -7,7 +7,7 @@
 **Initial editorial focus:** Colombian Caribbean culture  
 **Future expansion:** Colombia-wide cultural magazine / living cultural archive  
 **Owner:** Dario Ernesto Roca  
-**Last updated:** 2026-05-15  
+**Last updated:** 2026-10-14  
 
 ---
 
@@ -130,6 +130,7 @@ The owner is exploring names inspired by:
 - Literary references
 - The idea that life is made from moments, days, stories, and places
 - Names like `Macuira`, `El Otro Mapa`, `Archivo Vivo`, `El Tiempo Heredado`, `Los Días que Somos`, and similar concepts
+- Name options under consideration: `De La Sierra al Mar` and `Sierra al Mar`
 
 Do not finalize branding in code. Branding should be configurable from a settings table or configuration file in a later phase.
 
